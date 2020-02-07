@@ -1,0 +1,13 @@
+---
+title: "Milestone 1"
+author: "Prachi Naik"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Replication Paper
+For the final project, I will attempt to replicate Professor Ryan Enos's paper "WHAT THE DEMOLITION OF PUBLIC HOUSING TEACHES US ABOUT THE IMPACT OF RACIAL THREAT ON POLITICAL BEHAVIOR." I'm very interested in housing policy and care a lot about the future of mixed-income neighborhoods as it relates to desegregating public schools. I'm very grateful for the systematic fashion in which Professor Enos has made his data and code available to the public. 
